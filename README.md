@@ -58,7 +58,7 @@ Note: The .env file is used to securely store environment variables, and it shou
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/wrick-talukdar\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/wrick-talukdar\/)
 
 ## Blog
-* Blog: [Sample Agentic System for Competitive Intelligence](https://opendatascience.com/agentic-systems-for-competitive-intelligence-enhancing-business-decision-making/)
+* ODSC article: [Sample Agentic System for Competitive Intelligence](https://opendatascience.com/agentic-systems-for-competitive-intelligence-enhancing-business-decision-making/)
 
 ## Show your support
 
